@@ -7,7 +7,7 @@ function App() {
       <Navbar/>
       <div className="content">
         <Home/>
-        <p>Liked {likes} times</p>
+        
       </div>
     </div>
   );
