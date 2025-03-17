@@ -31,8 +31,8 @@ source myenv/bin/activate
 ### Step 2: Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Keerthi-Kolan/Blog.git
+cd Blog
 ```
 
 ### Step 3: Install Dependencies
